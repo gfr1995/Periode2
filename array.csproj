@@ -1,0 +1,28 @@
+let menu = [];
+
+menu[0] = "Spaghetti met ham en kaas";
+menu[1] = "Macaroni met ham en kaas";
+menu[2] = "Tagliatelli met ham en kaas";
+menu[3] = "Spaghetti met spinazie en room";
+menu[4] = "Macaroni met spinazie en room";
+menu[5] = "Tagliatelli met spinazie en room";
+menu[6] = "Spaghetti met gehakt-tomatensaus en kaas";
+menu[7] = "Macaroni met gehakt-tomatensaus en kaas ";
+menu[8] = "Tagliatelli met gehakt-tomatensaus en kaas";
+menu[9] = "Spaghetti met spekjes, spinazie en room";
+menu[10] = "Macaroni met spekjes, spinazie en room";
+menu[11] = "Tagliatelli met spekjes, spinazie en room";
+menu[12] = "Spaghetti met courgette en tomatensaus";
+menu[13] = "Macaroni met courgette en tomatensaus";
+menu[14] = "Tagliatelli met courgette en tomatensaus";
+menu[15] = "Lasagne met courgette en tomatensaus";
+menu[16] = "Lasagne met room, doperwten en tomatensaus";
+menu[17] = "Lasagne met spinazie en tomatensaus en kaas";
+menu[18] = "Vegetarische spaghetti met gehakt-tomatensaus en kaas";
+menu[19] = "Vegetarische Macaroni met gehakt-tomatensaus en kaas";
+menu[20] = "vegetarische Tagliatelli met gehakt-tomatensaus en kaas";
+
+let value = document.getElementById(value);
+
+value.innerHTML = menu[0];
+
